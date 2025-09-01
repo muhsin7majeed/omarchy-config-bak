@@ -1,0 +1,1099 @@
+{
+	"file_history":
+	[
+	],
+	"folder_history":
+	[
+		"/home/muhsin/.config"
+	],
+	"last_version": 4200,
+	"last_window_id": 2,
+	"log_indexing": false,
+	"next_update_check": 1755250145,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 1054.0,
+		"new_window_maximized": true,
+		"new_window_position":
+		[
+			0.0,
+			27.0
+		],
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 124.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/muhsin/.config/omarchy/themes/matte-black/alacritty.toml",
+				"/home/muhsin/.config/alacritty/alacritty.toml",
+				"/home/muhsin/.config/ghostty/config"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 352.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 960.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/muhsin/.config/ghostty/config",
+					"settings":
+					{
+						"buffer_size": 766,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							6,
+							1,
+							"left_delete",
+							null,
+							"AQAAAAAAAAAAAAAAAAAAAAAAAADfBQAAIyBUaGlzIGlzIHRoZSBjb25maWd1cmF0aW9uIGZpbGUgZm9yIEdob3N0dHkuCiMKIyBUaGlzIHRlbXBsYXRlIGZpbGUgaGFzIGJlZW4gYXV0b21hdGljYWxseSBjcmVhdGVkIGF0IHRoZSBmb2xsb3dpbmcKIyBwYXRoIHNpbmNlIEdob3N0dHkgY291bGRuJ3QgZmluZCBhbnkgZXhpc3RpbmcgY29uZmlnIGZpbGVzIG9uIHlvdXIgc3lzdGVtOgojCiMgICAvaG9tZS9tdWhzaW4vLmNvbmZpZy9naG9zdHR5L2NvbmZpZwojCiMgVGhlIHRlbXBsYXRlIGRvZXMgbm90IHNldCBhbnkgZGVmYXVsdCBvcHRpb25zLCBzaW5jZSBHaG9zdHR5IHNoaXBzCiMgd2l0aCBzZW5zaWJsZSBkZWZhdWx0cyBmb3IgYWxsIG9wdGlvbnMuIFVzZXJzIHNob3VsZCBvbmx5IG5lZWQgdG8gc2V0CiMgb3B0aW9ucyB0aGF0IHRoZXkgd2FudCB0byBjaGFuZ2UgZnJvbSB0aGUgZGVmYXVsdC4KIwojIFJ1biBgZ2hvc3R0eSArc2hvdy1jb25maWcgLS1kZWZhdWx0IC0tZG9jc2AgdG8gdmlldyBhIGxpc3Qgb2YKIyBhbGwgYXZhaWxhYmxlIGNvbmZpZyBvcHRpb25zIGFuZCB0aGVpciBkZWZhdWx0IHZhbHVlcy4KIwojIEFkZGl0aW9uYWxseSwgZWFjaCBjb25maWcgb3B0aW9uIGlzIGFsc28gZXhwbGFpbmVkIGluIGRldGFpbAojIG9uIEdob3N0dHkncyB3ZWJzaXRlLCBhdCBodHRwczovL2dob3N0dHkub3JnL2RvY3MvY29uZmlnLgoKIyBDb25maWcgc3ludGF4IGNyYXNoIGNvdXJzZQojID09PT09PT09PT09PT09PT09PT09PT09PT09CiMgIyBUaGUgY29uZmlnIGZpbGUgY29uc2lzdHMgb2Ygc2ltcGxlIGtleS12YWx1ZSBwYWlycywKIyAjIHNlcGFyYXRlZCBieSBlcXVhbHMgc2lnbnMuCiMgZm9udC1mYW1pbHkgPSBJb3NldmthCiMgd2luZG93LXBhZGRpbmcteCA9IDIKIwojICMgU3BhY2luZyBhcm91bmQgdGhlIGVxdWFscyBzaWduIGRvZXMgbm90IG1hdHRlci4KIyAjIEFsbCBvZiB0aGVzZSBhcmUgaWRlbnRpY2FsOgojIGtleT12YWx1ZQojIGtleT0gdmFsdWUKIyBrZXkgPXZhbHVlCiMga2V5ID0gdmFsdWUKIwojICMgQW55IGxpbmUgYmVnaW5uaW5nIHdpdGggYSAjIGlzIGEgY29tbWVudC4gSXQncyBub3QgcG9zc2libGUgdG8gcHV0CiMgIyBhIGNvbW1lbnQgYWZ0ZXIgYSBjb25maWcgb3B0aW9uLCBzaW5jZSBpdCB3b3VsZCBiZSBpbnRlcnByZXRlZCBhcyBhCiMgIyBwYXJ0IG9mIHRoZSB2YWx1ZS4gRm9yIGV4YW1wbGUsIHRoaXMgd2lsbCBoYXZlIGEgdmFsdWUgb2YgIiMxMjNhYmMiOgojIGJhY2tncm91bmQgPSAjMTIzYWJjCiMKIyAjIEVtcHR5IHZhbHVlcyBhcmUgdXNlZCB0byByZXNldCBjb25maWcga2V5cyB0byBkZWZhdWx0LgojIGtleSA9CiMKIyAjIFNvbWUgY29uZmlnIG9wdGlvbnMgaGF2ZSB1bmlxdWUgc3ludGF4ZXMgZm9yIHRoZWlyIHZhbHVlLAojICMgd2hpY2ggaXMgZXhwbGFpbmVkIGluIHRoZSBkb2NzIGZvciB0aGF0IGNvbmZpZyBvcHRpb24uCiMgIyBKdXN0IGZvciBleGFtcGxlOgojIHJlc2l6ZS1vdmVybGF5LWR1cmF0aW9uID0gNHMgMjAwbXMK",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAN8FAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							8,
+							1,
+							"",
+							null,
+							"AQAAAAAAAAAAAAAA+QIAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							7,
+							1,
+							"left_delete",
+							null,
+							"AQAAAHAAAAAAAAAAcAAAAAAAAAABAAAANA",
+							"AQAAAAAAAAABAAAAcQAAAAAAAABxAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							8,
+							1,
+							"insert",
+							{
+								"characters": "2"
+							},
+							"AQAAAHAAAAAAAAAAcQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAcAAAAAAAAABwAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							10,
+							1,
+							"left_delete",
+							null,
+							"AQAAAIYAAAAAAAAAhgAAAAAAAAABAAAANA",
+							"AQAAAAAAAAABAAAAhwAAAAAAAACHAAAAAAAAAAAAAAAAAGVA"
+						],
+						[
+							11,
+							1,
+							"insert",
+							{
+								"characters": "2"
+							},
+							"AQAAAIYAAAAAAAAAhwAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAhgAAAAAAAACGAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							14,
+							1,
+							"left_delete",
+							null,
+							"AQAAAEcAAAAAAAAARwAAAAAAAAABAAAAOQ",
+							"AQAAAAAAAAABAAAASAAAAAAAAABIAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							15,
+							1,
+							"insert",
+							{
+								"characters": "12.0"
+							},
+							"BAAAAEcAAAAAAAAASAAAAAAAAAAAAAAASAAAAAAAAABJAAAAAAAAAAAAAABJAAAAAAAAAEoAAAAAAAAAAAAAAEoAAAAAAAAASwAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAARwAAAAAAAABHAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							21,
+							1,
+							"insert",
+							{
+								"characters": "#"
+							},
+							"AQAAAPkAAAAAAAAA+gAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA+QAAAAAAAAD5AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							22,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAPoAAAAAAAAA+wAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA+gAAAAAAAAD6AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							28,
+							1,
+							"",
+							null,
+							"AQAAAEsBAAAAAAAAUQEAAAAAAAAGAAAAMWExYjI2",
+							"AQAAAAAAAAABAAAASwEAAAAAAABRAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							34,
+							1,
+							"",
+							null,
+							"AQAAAF8BAAAAAAAAZQEAAAAAAAAGAAAAYTliMWQ2",
+							"AQAAAAAAAAABAAAAXwEAAAAAAABlAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							70,
+							1,
+							"left_delete",
+							null,
+							"AQAAADUCAAAAAAAANQIAAAAAAAABAAAANA",
+							"AQAAAAAAAAABAAAANgIAAAAAAAA2AgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							72,
+							1,
+							"insert",
+							{
+								"characters": "5"
+							},
+							"AQAAADUCAAAAAAAANgIAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAANQIAAAAAAAA1AgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							81,
+							1,
+							"left_delete",
+							null,
+							"AQAAADUCAAAAAAAANQIAAAAAAAABAAAANQ",
+							"AQAAAAAAAAABAAAANgIAAAAAAAA2AgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							83,
+							1,
+							"insert",
+							{
+								"characters": "6"
+							},
+							"AQAAADUCAAAAAAAANgIAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAANQIAAAAAAAA1AgAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				},
+				{
+					"file": "/home/muhsin/.config/alacritty/alacritty.toml",
+					"settings":
+					{
+						"buffer_size": 376,
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+					]
+				},
+				{
+					"file": "/home/muhsin/.config/omarchy/themes/matte-black/alacritty.toml",
+					"settings":
+					{
+						"buffer_size": 894,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+					]
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 124.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/muhsin/.config",
+				"/home/muhsin/.config/alacritty",
+				"/home/muhsin/.config/ghostty",
+				"/home/muhsin/.config/omarchy",
+				"/home/muhsin/.config/omarchy/themes",
+				"/home/muhsin/.config/omarchy/themes/matte-black"
+			],
+			"file_history":
+			[
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/muhsin/.config"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/muhsin/.config/ghostty/config",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 766,
+								"regions":
+								{
+									"col_0DB9D7FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												689,
+												696
+											]
+										],
+										"scope": "col_0DB9D7FF"
+									},
+									"col_0DB9D7FF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_0DB9D7FF_circle.png",
+										"regions":
+										[
+											[
+												676,
+												676
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_32344AFF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												387,
+												394
+											]
+										],
+										"scope": "col_32344AFF"
+									},
+									"col_32344AFF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_32344AFF_circle.png",
+										"regions":
+										[
+											[
+												375,
+												375
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_449DABFF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												507,
+												514
+											]
+										],
+										"scope": "col_449DABFF"
+									},
+									"col_449DABFF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_449DABFF_circle.png",
+										"regions":
+										[
+											[
+												495,
+												495
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_644B6AFF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												564,
+												571
+											]
+										],
+										"scope": "col_644B6AFF"
+									},
+									"col_644B6AFF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_644B6AFF_circle.png",
+										"regions":
+										[
+											[
+												552,
+												552
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_787C99FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												527,
+												534
+											]
+										],
+										"scope": "col_787C99FF"
+									},
+									"col_787C99FF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_787C99FF_circle.png",
+										"regions":
+										[
+											[
+												515,
+												515
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_7AA2F7FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												467,
+												474
+											]
+										],
+										"scope": "col_7AA2F7FF"
+									},
+									"col_7AA2F7FF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_7AA2F7FF_circle.png",
+										"regions":
+										[
+											[
+												455,
+												455
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_7DA6FFFF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												647,
+												654
+											]
+										],
+										"scope": "col_7DA6FFFF"
+									},
+									"col_7DA6FFFF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_7DA6FFFF_circle.png",
+										"regions":
+										[
+											[
+												634,
+												634
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_9ECE6AFF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												427,
+												434
+											]
+										],
+										"scope": "col_9ECE6AFF"
+									},
+									"col_9ECE6AFF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_9ECE6AFF_circle.png",
+										"regions":
+										[
+											[
+												415,
+												415
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_ACB0D0FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												710,
+												717
+											]
+										],
+										"scope": "col_ACB0D0FF"
+									},
+									"col_ACB0D0FF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_ACB0D0FF_circle.png",
+										"regions":
+										[
+											[
+												697,
+												697
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_AD8EE6FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												487,
+												494
+											]
+										],
+										"scope": "col_AD8EE6FF"
+									},
+									"col_AD8EE6FF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_AD8EE6FF_circle.png",
+										"regions":
+										[
+											[
+												475,
+												475
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_B9F27CFF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												605,
+												612
+											]
+										],
+										"scope": "col_B9F27CFF"
+									},
+									"col_B9F27CFF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_B9F27CFF_circle.png",
+										"regions":
+										[
+											[
+												592,
+												592
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_BB9AF7FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												668,
+												675
+											]
+										],
+										"scope": "col_BB9AF7FF"
+									},
+									"col_BB9AF7FF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_BB9AF7FF_circle.png",
+										"regions":
+										[
+											[
+												655,
+												655
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_E0AF68FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												447,
+												454
+											]
+										],
+										"scope": "col_E0AF68FF"
+									},
+									"col_E0AF68FF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_E0AF68FF_circle.png",
+										"regions":
+										[
+											[
+												435,
+												435
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_F7768EFF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												407,
+												414
+											]
+										],
+										"scope": "col_F7768EFF"
+									},
+									"col_F7768EFF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_F7768EFF_circle.png",
+										"regions":
+										[
+											[
+												395,
+												395
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_FF7A93FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												584,
+												591
+											]
+										],
+										"scope": "col_FF7A93FF"
+									},
+									"col_FF7A93FF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_FF7A93FF_circle.png",
+										"regions":
+										[
+											[
+												572,
+												572
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_FF9E64FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												626,
+												633
+											]
+										],
+										"scope": "col_FF9E64FF"
+									},
+									"col_FF9E64FF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_FF9E64FF_circle.png",
+										"regions":
+										[
+											[
+												613,
+												613
+											]
+										],
+										"scope": "col_gutter"
+									}
+								},
+								"selection":
+								[
+									[
+										494,
+										494
+									]
+								],
+								"settings":
+								{
+									"colorcode": true,
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/muhsin/.config/alacritty/alacritty.toml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 376,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										28,
+										28
+									]
+								],
+								"settings":
+								{
+									"colorcode": true,
+									"syntax": "Packages/TOML/TOML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/muhsin/.config/omarchy/themes/matte-black/alacritty.toml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 894,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										366,
+										366
+									]
+								],
+								"settings":
+								{
+									"colorcode": true,
+									"syntax": "Packages/TOML/TOML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/muhsin/.config/omarchy/themes/matte-black/alacritty.toml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 894,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"colorcode": true,
+									"syntax": "Packages/TOML/TOML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/muhsin/.config/omarchy/themes/matte-black/alacritty.toml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 894,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"colorcode": true,
+									"syntax": "Packages/TOML/TOML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,0,1898,1032,1920,1080,0",
+			"project": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 352.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 2,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
