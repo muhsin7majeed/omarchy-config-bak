@@ -30,6 +30,10 @@
   opacity: 0.5;
 }
 
+#custom-nightlight {
+  margin-right: 12px;
+}
+
 #tray,
 #cpu,
 #battery,
